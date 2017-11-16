@@ -19,9 +19,11 @@ Commit- a snapshot of the reposityr made at a certain time with a message
 Clone- makinga copy of a repsoity to another machine
 Remote- a place to store the master copy of the repository on the internet (e.g. GitHub)
 Branch- an independent copy of the repository. Often you will try out changes on a develper branch before mvoing them to the master copy
+Fork- enough like branch to be fine with no distinction
 Push- moving commits to the remote copy
 Pull- getting commits from the remote copy
 Merge- moving changes from one branch to the master copy
+Testtesttest
 
 ```{r cars}
 summary(cars)
